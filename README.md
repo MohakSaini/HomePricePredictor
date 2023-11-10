@@ -59,8 +59,8 @@ Interpret the model coefficients or feature importance scores to understand the 
 
 The US Home Price Prediction Model was evaluated using various regression algorithms. The results of each algorithm are as follows:
 
-#### inear Regression:
-Mean Squared Error: 57.15221822655363
+#### Linear Regression:
+Mean Squared Error: 57.15221822655363 
 Root Mean Squared Error: 7.559908612314942
 R-squared: 0.9770764259624048
 
